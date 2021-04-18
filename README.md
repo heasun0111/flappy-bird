@@ -25,4 +25,4 @@ Forward의 input에 텐서가 들어오는데 Batch x channel x H x W (ex: 32 x 
 <br><br>
 
 #### <flappy bird 게임 이미지>
-![flappy bird play image](./flappy bird 예시.png)
+![flappy bird play image](./example img/flappy bird 예시.png)
